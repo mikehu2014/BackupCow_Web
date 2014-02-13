@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "D:\...\Register\", "..\Register", "{40E25FB9-6A63-44AA-B969-BA0BDC6C98DD}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.VirtualPath = "/Register"
+		Debug.AspNetCompiler.PhysicalPath = "D:\Development\BackupCow\Register\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Register\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Register"
+		Release.AspNetCompiler.PhysicalPath = "D:\Development\BackupCow\Register\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Register\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "4575"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40E25FB9-6A63-44AA-B969-BA0BDC6C98DD}.Debug|.NET.ActiveCfg = Debug|.NET
+		{40E25FB9-6A63-44AA-B969-BA0BDC6C98DD}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
